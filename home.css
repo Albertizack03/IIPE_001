@@ -1,0 +1,92 @@
+body {
+    background: radial-gradient(circle, coral, rgb(170, 78, 44), rgb(119, 50, 25));
+    margin: 0;
+}
+
+.header {
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+    position: relative;
+    left: 6vw;
+}
+
+
+/*firstimg{
+    height:60vh;
+    width:50vw;
+    background:url(./Health\ Life\ Insurance\ Promo\ Facebook\ Post.png);
+    background-size: 100% 100%;
+    position:relative;
+    top:10vh;
+    left:5vw;
+    border:2px solid none;
+    border-radius: 10px 10px 10px 0px;
+    
+}*/
+
+.header_span {
+    font-size: 30px;
+    position: relative;
+    left: 50vw;
+    word-spacing: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    word-spacing: normal;
+}
+
+a:hover {
+    color: black;
+}
+
+.main {
+    height: 70vh;
+    width: 70vw;
+    position: relative;
+    top: 10vh;
+    left: 8vw;
+    text-align: justify;
+}
+
+.person {
+    color: black;
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 8px;
+}
+
+.health {
+    color: white;
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+
+.fast {
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.img {
+    height: 60vh;
+    width: 60vh;
+    background: url(./5-2-health-free-png-image.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 20vh;
+    left: 60vw;
+    z-index: 0;
+}
+
+.imgheart {
+    height: 18vh;
+    width: 18vh;
+    background: url(./1-2-health-picture.jpeg);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 20vh;
+    left: 35vw;
+}
